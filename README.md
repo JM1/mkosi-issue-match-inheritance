@@ -23,6 +23,8 @@ section in [mkosi.images/system/mkosi.conf.d/30-centos-fedora/mkosi.conf] is not
 [mkosi.images/system/mkosi.conf.d/30-centos-fedora/mkosi.conf]: mkosi.images/system/mkosi.conf.d/30-centos-fedora/mkosi.conf
 [mkosi.images/system/mkosi.conf.d/30-centos-fedora/mkosi.conf.d/example.conf]: mkosi.images/system/mkosi.conf.d/30-centos-fedora/mkosi.conf.d/example.conf
 
+This issue is tracked in [mkosi issue #2545](https://github.com/systemd/mkosi/issues/2545).
+
 ## Reproduce
 
 On Debian 12 (Bookworm) install the latest code of [mkosi](https://github.com/systemd/mkosi) from its `main` branch and
